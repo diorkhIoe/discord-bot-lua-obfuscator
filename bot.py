@@ -5,8 +5,8 @@ import os
 import subprocess
 import shutil
 
-token = "your token goes here"
-channel_id = 0000000000000
+token = "ODM3MDU4MTE4ODE0NDAwNTUy.GyNFrS.Iy2Khub_VhI2oplFx2wqGoZNDJ98WkYq7e8MGg"
+channel_id = 1052077187131510824
 
 intents = discord.Intents.default()
 intents.messages = True
